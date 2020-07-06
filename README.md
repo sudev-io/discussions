@@ -1,6 +1,6 @@
-## discussions
+# Discussions
 
-# Will be discussed:
+## Will be discussed:
 
 * Code breaks and productivity. 10/7
 
@@ -10,5 +10,5 @@
 
 
 
-# Discussed
+## Discussed
  * Software industry.
