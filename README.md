@@ -15,9 +15,9 @@
 
 ## Contributing
 لو حابي تضيف موضوع للنقاش.. ممكن:
-1- رسل Pull Request فيه موضوع النقاش وأسئلة مبدئية عن الموضوع
+* رسل Pull Request فيه موضوع النقاش وأسئلة مبدئية عن الموضوع
 
-2- أقترح الموضوع في صفحة [sudev](https://twitter.com/sudev__)
+* أقترح الموضوع في صفحة [sudev](https://twitter.com/sudev__)
 أو في قناة المناقشة في [DevsDotSudan](https://discord.gg/3wDBUch) 
 
 
