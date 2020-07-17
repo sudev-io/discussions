@@ -13,17 +13,16 @@
    <br> سوق البرمجة في السودان
   
   </p>
-  
+  </div>
   <h3 dir="rtl"> المشاركة والإقتراح:</h3>
   <span dir="rtl" lang="ar">
   لو حابب تضيف موضوع للنقاش او عندك مقترح حابب انو يتم مناقشته.. ممكن ترسل 'بول ريكويس' بالإسم بتاع الموضوع وشوية نبذة عنو إذا أمكن.
   <br>
-  أو ممكن ترسل في صفحة  
-  </span>
-  </div>
-  [sudev](https://twitter.com/sudev__)
-  <p dir="rtl">
+  أو ممكن ترسل في صفحة 
+    [sudev](https://twitter.com/sudev__)
     أو في قناة المناقشة في
-  </p>
   [DevsDotSudan](https://discord.gg/3wDBUch)
+  </span>
+  
+
 
