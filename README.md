@@ -26,6 +26,4 @@
     أو في قناة المناقشة في
   </p>
   [DevsDotSudan](https://discord.gg/3wDBUch)
-  
-  <a href="(https://twitter.com/sudev__">sudev</a>
 </div>
