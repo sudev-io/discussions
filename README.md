@@ -26,4 +26,4 @@
     أو في قناة المناقشة في
   </p>
   [DevsDotSudan](https://discord.gg/3wDBUch)
-</div>
+
