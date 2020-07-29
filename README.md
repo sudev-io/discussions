@@ -18,12 +18,15 @@
 <span dir="rtl" lang="ar">
 لو حابب تضيف موضوع للنقاش او عندك مقترح حابب انو يتم مناقشته.. ممكن ترسل 'بول ريكويس' بالإسم بتاع الموضوع وشوية نبذة عنو إذا أمكن.
 <br>
-<br></span>أو ممكن ترسل في صفحة 
+<br>
+  أو ممكن ترسل في صفحة
+</span>
+ 
 [حساب sudev](https://twitter.com/sudev__)
 <br>
 <p dir="rtl">
 أو في قناة المناقشة في
 </p>
-[سيرفر DevsDotSudan](https://discord.gg/3wDBUch)
+[DevsDotSudan](https://discord.gg/3wDBUch)
 
   
