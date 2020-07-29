@@ -21,6 +21,6 @@
 <br></span>أو ممكن ترسل في صفحة 
 [sudev](https://twitter.com/sudev__)
 <br></p><p dir="rtl">أو في قناة المناقشة في
-[DevsDotSudan](https://discord.gg/3wDBUch)
+[سيرفر DevsDotSudan](https://discord.gg/3wDBUch)
 
   
