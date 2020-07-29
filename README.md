@@ -19,8 +19,11 @@
 لو حابب تضيف موضوع للنقاش او عندك مقترح حابب انو يتم مناقشته.. ممكن ترسل 'بول ريكويس' بالإسم بتاع الموضوع وشوية نبذة عنو إذا أمكن.
 <br>
 <br></span>أو ممكن ترسل في صفحة 
-[sudev](https://twitter.com/sudev__)
-<br></p><p dir="rtl">أو في قناة المناقشة في
+[حساب sudev](https://twitter.com/sudev__)
+<br>
+<p dir="rtl">
+أو في قناة المناقشة في
+</p>
 [سيرفر DevsDotSudan](https://discord.gg/3wDBUch)
 
   
